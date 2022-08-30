@@ -1,0 +1,15 @@
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\bin\Debug\net6.0\opCondicionais.exe
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\bin\Debug\net6.0\opCondicionais.deps.json
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\bin\Debug\net6.0\opCondicionais.runtimeconfig.json
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\bin\Debug\net6.0\opCondicionais.dll
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\bin\Debug\net6.0\opCondicionais.pdb
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.dll
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\refint\opCondicionais.dll
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.pdb
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\opCondicionais.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\opCondicionais\obj\Debug\net6.0\ref\opCondicionais.dll
