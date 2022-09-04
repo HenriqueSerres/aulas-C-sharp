@@ -1,0 +1,15 @@
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.csproj.AssemblyReference.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.exe
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.deps.json
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.runtimeconfig.json
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.dll
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\bin\Debug\net6.0\funcoesSintaxe.pdb
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.dll
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\refint\funcoesSintaxe.dll
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.pdb
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\funcoesSintaxe.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\aulas-C-sharp\funcoesSintaxe\obj\Debug\net6.0\ref\funcoesSintaxe.dll
